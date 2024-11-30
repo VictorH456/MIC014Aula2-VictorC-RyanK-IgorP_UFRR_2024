@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/80858d03-a7ae-4b7d-9c3c-835243b61b46)# MIC014Aula2-VictorC-RyanK-IgorP_UFRR_2024  
+# MIC014Aula2-VictorC-RyanK-IgorP_UFRR_2024  
 <br />  
 <p align="center">
   <a href="">
