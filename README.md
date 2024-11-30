@@ -25,13 +25,13 @@ O desenvolvimento será realizado na plataforma **Arduino IDE**, utilizando a pr
 - Desenvolver a programação para acionar os dispositivos corretamente quando o botão for pressionado.
 - Explorar o uso do ESP32 em sistemas de alerta.
 ## 2. Tutorial montagem:
-- Botão: Conecte o botão push button ao pino digital 21 do ESP32 e o outro
+- **Botão**: Conecte o botão push button ao pino digital 21 do ESP32 e o outro
  terminal ao GND.
-- LED:Conecte o anodo do LED ao resistor ,que será ligado ao pino 23 do
+- **LED**: Conecte o anodo do LED ao resistor ,que será ligado ao pino 23 do
  ESP 32, e o catodo ao GND.
-- Resistor: Conecte o um resistor o ao pino 23 e ao anodo do LED.
-- Buzzer: conecte o catodo no GND e o anodo no 22.
-- Alimentação: via cabo USB ou uma fonte externa compatível
+- **Resistor**: Conecte o um resistor o ao pino 23 e ao anodo do LED.
+- **Buzzer**: conecte o catodo no GND e o anodo no 22.
+- **Alimentação**: via cabo USB ou uma fonte externa compatível
   </p>
 </p>
 </p>
