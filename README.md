@@ -8,7 +8,7 @@
   </a>
   <h1 align="center">Projeto de Botão de Pânico com ESP32, LED e Piezo (Buzzer)</h1>
   <p align="center">
-    <img src="https://github.com/VictorH456/MIC014Aula2-VictorC-RyanK-IgorP_UFRR_2024/blob/main/imagens/logo.jpeg">
+    <img src="https://github.com/VictorH456/MIC014Aula2-VictorC-RyanK-IgorP_UFRR_2024/blob/main/imagens/kakapo.jpg">
     
 
 ## 1. Botão de Pânico
